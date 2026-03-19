@@ -1,0 +1,33 @@
+
+
+\makeatletter
+\let\thetitle\@title
+\let\theauthor\@author
+\makeatother
+
+\newcommand{\togglepaper}[1][0]{
+   \bibliography{../localbibliography}
+   \papernote{\scriptsize\normalfont
+     \theauthor.
+     \titleTemp.
+In Saloumeh Gholami \& Ulrich Mehlem (eds.), \textit{Identity formation, language and migration dynamics: Minorities in the MENA region and the German diaspora}, Berlin: Language Science Press [preliminary page numbering]
+   }
+   \pagenumbering{roman}
+   \setcounter{chapter}{#1}
+   \addtocounter{chapter}{-1}
+}
+
+\newbool{bookcompile}
+\booltrue{bookcompile}
+\newcommand{\bookorchapter}[2]{\ifbool{bookcompile}{#1}{#2}}
+
+
+\newcommand{\georgian}[1]{{\georgianfont #1}}
+\newcommand{\armenian}[1]{{\armenianfont #1}}
+
+\newcommand{\textarab}[1]{{\arabicfont \beginR #1} \endR}
+\newcommand{\texthebrew}[1]{{\hebrewfont \beginR #1} \endR}
+\newcommand{\textsyriac}[1]{{\syriacfont \beginR #1} \endR}
+
+
+\newfontfamily\phoenicianfont{Tuffy Regular.ttf}

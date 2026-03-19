@@ -1,0 +1,36 @@
+\documentclass[output=paper,colorlinks,citecolor=brown
+% ,hidelinks
+% showindex
+]{langscibook}
+\author{No Author}
+\title{Bib Test}
+\abstract{Abstract goes here}
+
+%move the following commands to the "local..." files of the master project when integrating this chapter
+
+% \usepackage{tabularx}
+% \usepackage{langsci-optional}
+% \usepackage{langsci-gb4e}
+% \bibliography{localbibliography}
+% \newcommand{\orcid}[1]{}
+
+\IfFileExists{../localcommands.tex}{
+   \addbibresource{../localbibliography.bib}
+   \input{../localpackages}
+   \input{../localcommands}
+   \input{../localhyphenation}
+   \boolfalse{bookcompile}
+   \togglepaper[23]%%chapternumber
+}{}
+
+\begin{document}
+
+\maketitle
+\nocite{*}
+
+\sloppy
+
+\printbibliography[heading=subbibliography,notkeyword=this]
+
+\end{document}
+

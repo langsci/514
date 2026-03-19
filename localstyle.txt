@@ -1,0 +1,286 @@
+Style guide 
+
+Sentence case, not Title Case, for title, parts, chapters, and sections
+
+diaspora
+*Diaspora
+
+MENA region
+*MENA Region
+*Mena
+
+acknowledgement
+*acknowledgment
+
+ --  
+*– (en dash glyph)
+*— (em dash glyph)
+with spaces before and after, for a remark in a sentence
+
+non-
+nonverbal
+nonaccommodation
+nonbeliever
+nongaršūnographic
+nonnative (ch 7)
+non-native (ch 2)
+nonsensical
+
+multilingual
+multidimensional
+multicultural
+multimedia
+multifaceted
+multifunctiionality
+multi-stakeholder
+multi-layered
+multi-genre
+multi-referenced
+
+socio-
+sociolinguistics
+sociocultural
+sociohistorical
+
+Zaza/Kurdish-speaking families
+predominantly Turkish speaking families
+
+\citep{x,y}
+(\citealt[n]{x}, \citealt{y})
+*\citep{a2025,z2000}
+*(\citealt{x}; \citealt{y})
+*(\citealt{x}, \citealt{y})
+
+European Yearbook of Minority Issues
+*European Yearbook of Minority Issues Online
+
+Sabbatai Zevi
+*Shabbetai Zvi
+*Sabbatai Zvi
+
+Council of Europe's Advisory Committee on the Framework Convention for the Protection of National Minorities
+Advisory Committee on the Framework Convention for the Protection of National Minorities
+ACFC
+*Advisory Committee
+*Advisory Committee on the Council of Europe's Framework Convention for the Protection of National Minorities
+*Advisory Committee of the Council of Europe's Framework Convention for the Protection of National Minorities
+
+Hesse?
+Hessen?
+federal state of Hessen?
+German state of Hesse?
+Federal State of Hesse?
+German state of Hesse?
+
+Chapters
+
+Acknowledgements
+BrE
+
+Ch 1
+BrE
+terminal punctuation inside quote marks
+terminal punctuation outside quote marks?
+Rewrite the abstract to refer to "this volume" and its "papers" or "parts" or "chapters", not "This introduction ... The discussion .. the text ... the section .. It ... The text ... it ... this introduction"? Compare with the back cover: The volume ... It ... The book ... it ...
+Overview of the sections?
+Overview of the volume?
+Overview of the chapters?
+name with given name and surname for this volume authors in-text?
+\citeauthor*{...} or \citealt{...} for author names?
+University of Gießen?
+University of Giessen?
+``France'' or ``England.''? 
+France or England.?
+same ``language''?
+same language?
+
+Ch 2
+AmE
+terminal punctuation inside quote marks
+Conversation excerpt (long) as quote environment, not paragraph or numbered example: German first, in italic, using German punctuation, not enclosed in parentheses; English translation follows in roman, enclosed in single quotes.
+In-paragraph short conversation: German first, in italic; English translation follows.
+English in-line paraphrase or quote (without German) in double quote marks.
+*transl. by the authors
+\foonote{All translations by the authors.} [first only]
+Marcus's
+*Marcus'
+
+Ch 3
+BrE -our, per cent
+AmE -ize
+terminal punctuation outside quote marks
+(cf. ...)
+*(Cf. ...)
+X's Rules
+*the X Rules
+*the X rules
+Castells's
+*Castells'
+See for example in the German context findings. Cite https://www.gmk-net.de/2024/02/13/studie-lauter-hass-leiser-rueckzug/ or https://kompetenznetzwerk-hass-im-netz.de/lauter-hass-leiser-rueckzug/?
+
+Ch 4
+AmE -ize
+Added publication citations after (most) legal citations
+
+Ch 5
+AmE -ize -yze -or
+Added publication citations for legal citations
+double quote marks, not italic or single quote marks, for so-called terms
+*art.  6 (3) (e)
+Article  6(3)(e)
+*see the seminal study by \citet{putnam2001,stolle_soroka_johnston2008,kelser_kraaykamp2010,portes_vickstrom2011}
+see the seminal studies by \citet{putnam2001,stolle_soroka_johnston2008,kelser_kraaykamp2010,portes_vickstrom2011}
+
+Ch 6
+BrE -ise -our enrol
+*newly-arrived Kurdish and Afghan families
+newly arrived Kurdish and Afghan families
+*Kurdish-speaking minorities
+Kurdish speaking minorities
+*``brought to Germany'''
+brought to Germany
+*``Willkommensklassen'' (welcome classes)
+\textit{Willkommensklassen} `welcome classes'
+\textit{verlernen} `forget'?
+Section 4.4 in 4.4.1, 4.4.2, 4.4.3 instead of numbered list
+*Pachto
+Pashto
+*``Persian''
+Persian
+“bisschen“?
+“gemiṣt“?
+check format of interview citation e.g., (Int 1\_Z I, 21--26) (Int 2\_N\_father, 536--537) (Int 1\_A\_mother, 192--200) (Int 1\_N\_parents, 235--240)
+
+Ch 7
+AmE -ize
+Serṭo, Maḏnḥāyā and Esṭrangelā (capitalized, not italic)
+*Esṭrangēlā
+nonnative
+*longest, continuously attested group
+longest continuously attested group
+pre-history
+*Gorgias Encyclopedic Dictionary of the Syriac Heritage
+Gorgias encyclopedic dictionary of the Syriac heritage
+\textit{Rabbula Codex}
+North-Eastern Neo-Aramaic
+*northeastern 
+north-eastern 
+“West-Syriac” Maronites?
+*grew rape
+grew rapidly
+*``timid affaire''
+``timid affair''
+
+Ch 8
+AmE -ize
+Hebrew in footnotes or inline?
+\textit{ḥorban} `destruction', [in paragraph]
+*\textit{ḥorban} ``destruction,'
+*\textit{ḥorban} -- destruction, 
+*\textit{ḥorban} ``destruction,''
+cite all figures?
+(Istanbul 1753)?
+(Constantinople, 1753)?
+Rashi [script or alphabet]
+*“rashi”
+*\textit{rashi}
+square
+*``square''
+loanword
+*loan-word
+*loan word
+Exodus?
+\textit{Exodus}?
+let us
+*let's
+given names of cited authors?
+Aldina Quintana (2006)? 
+Rosa Asenjo (2003)?
+Mathias Lehmann (2014)?
+Avigdor Levy (1992)?
+R. Cooper?
+Marie-Christine Bornes-Varol (2003: 125)?
+Joseph Nehama’s dictionary (1997)?
+David Bunis's lexicon of Hebrew and Aramaic elements in Judeo-Spanish (1993)?
+Aharon Maman's \textit{Synoptic dictionary of the Hebrew component in Jewish languages} (2019)
+Angel Berenguer Amador's thesis on David M. Atias's \textit{La güerta de oro} (1778),
+kabbalistic
+*Kabbalistic
+55 double pages?
+55 folios (two-page spreads)?
+Internal double-page?
+Folio (two-page spread)?
+\textit{akí yerushalayim}?
+\textit{Aki Yerushalayim}?
+https://yerushalayimaki.wixsite.com/ladino/grafia-del-djudeo-espanyol
+[Non-integrated Hebrew loanwords are shown here in italics and small capital letters, while integrated terms are shown only in italics.]
+The words in lowercase are integrated loanwords. The three code-switching cases (in uppercase bold letters)
+\textit{{``}ʾAZ
+Quote marks in object language?
+\textit{Ladino}?
+Ladino?
+koinéisation?
+\textit{koinéisation}?
+\textit{Alliance Israélite Universelle}?
+Alliance Israélite Universelle?
+`the book of Psalms'?
+`book of Psalms'?
+\textsuperscript{e}?
+ᵊ?
+ᵉ?
+*\textsuperscript{h}
+ʰ
+\textsuperscript{H}?
+\textsuperscript{k}?
+baru\textsuperscript{k} huʾ uvaru\b{k}?
+baru\b{k} huʾ uvaru\b{k}?
+derek?
+dere\b{k}
+\textit{tsaʿar}\footnote{צער} `grief'?
+\textit{ʾadrabaʾ} \texthebrew{אדרבא}?
+(ADV. `on the contrary', 7 occurrences),?
+ADV. `on the contrary' (7 occurrences),?
+the introduction?
+the Introduction?
+entire formula \textit{el ken}?
+entire formula el ken?
+[calques in italic? (36)--(50)]
+\subparagraph{Homosynonymic reduplication}?
+-- Homosynonymic reduplication?
+https://yerushalayimaki.wixsite.com/ladino/grafia-del-djudeo-espanyol?
+
+Ch 9
+AmE -ize
+Some terminal punctuaton outside quote marks
+Italic for transliteration. Slashes for phonemic representation only.
+Dedabruli
+*``Dedabruli''
+TAM categories?
+Tense-Aspect-Mood categories? [not in Abbreviations]
+*Georgia /Kingdom of Kartli/
+the Kingdom of Georgia (\georgian{ქართლის სამეფო} /kartlis samepo/)
+\ea in footnote 6
+*warslaves
+war slaves
+*``Kobuletic-Adjarian Dedabru manuscript''
+\textit{Kobuletian-Adjarian Dedabruli Manuscripts}
+Crypto-Orthodox
+*Crypto-orthodox
+*crypto-orthodox
+*the amulets Manuscripts for amulets or talismans
+the amulets or talismans
+
+Todo by EP
+
+subject entries lowercase
+\is{script!Dedabruli} Dedabruli, Rashi, square Hebrew, ...
+\citetv cite this volume?
+Marcus's?
+Marcus'?
+Socrates's?
+Socrates'?
+citations allowed in abstract?
+no citation in abstract?
+paragraphs in abstract?
+abstract is one paragraph?
+abstract must fit on chapter title page?
